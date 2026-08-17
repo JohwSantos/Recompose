@@ -1,0 +1,18 @@
+# Gradle
+.gradle/
+build/
+
+# Kotlin
+.kotlin/
+
+# Android Studio
+.idea/
+
+# Builds do aplicativo
+app/build/
+
+# Configuração local do Android SDK
+local.properties
+
+# Arquivos temporários
+*.iml
